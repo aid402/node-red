@@ -1,1 +1,2 @@
 # node-red
+simple flow
