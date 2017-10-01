@@ -11,7 +11,7 @@
         "crontab": "",
         "once": true,
         "x": 110,
-        "y": 300,
+        "y": 240,
         "wires": [
             [
                 "82b8363.77b9ac8"
@@ -30,7 +30,7 @@
         "crontab": "",
         "once": false,
         "x": 130,
-        "y": 200,
+        "y": 140,
         "wires": [
             [
                 "6ca90a49.1b4cb4",
@@ -162,11 +162,10 @@
         "chunk": false,
         "sendError": false,
         "x": 160,
-        "y": 240,
+        "y": 200,
         "wires": [
             [
-                "6ca90a49.1b4cb4",
-                "2de7b747.1d3e28"
+                "6ca90a49.1b4cb4"
             ]
         ]
     }
